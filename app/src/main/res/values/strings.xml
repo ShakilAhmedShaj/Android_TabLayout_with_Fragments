@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_TabLayout_with_Fragments</string>
+    <string name="tab_text_1">Sun</string>
+    <string name="tab_text_2">Mercury</string>
+    <string name="tab_text_3">Earth</string>
+    <string name="tab_text_4">Mars</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
